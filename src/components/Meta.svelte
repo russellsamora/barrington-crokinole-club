@@ -1,7 +1,7 @@
 <script>
 	export let title = "Barrington Crokinole Club";
 	export let description = "All are welcome.";
-	export let url = "https://example.com";
+	export let url = "https://russellsamora.github.io/barrington-crokinole-club";
 	export let keywords = "";
 	export let preloadFont = [];
 </script>
