@@ -7,6 +7,8 @@
 	<p>A monthly meetup in South Berkshire County.</p>
 	<p>All are welcome!</p>
 
+	<p>Next meetup: TBD</p>
+
 	<p>
 		<a
 			class="btn"
