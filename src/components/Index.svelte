@@ -5,9 +5,10 @@
 	<h1>Barrington <br />Crokinole Club</h1>
 
 	<p>A monthly meetup in South Berkshire County.</p>
-	<p>All are welcome!</p>
 
-	<p>Next meetup: TBD</p>
+	<p>All levels and ages are welcome!</p>
+
+	<p><strong>Next meetup: TBD</strong></p>
 
 	<p>
 		<a
