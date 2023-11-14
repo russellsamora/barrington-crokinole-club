@@ -44,7 +44,7 @@
 	}
 
 	p {
-		font-size: clamp(18px, 4vw, 32px);
+		font-size: clamp(16px, 4vw, 32px);
 		line-height: 1.4;
 		margin: 16px auto;
 		max-width: 640px;
