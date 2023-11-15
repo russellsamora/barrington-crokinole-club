@@ -6,7 +6,6 @@
 			rel="noreferrer"
 		>
 			<img src="assets/shirt-bear.jpg" alt="bear t-shirt" />
-			<!-- <span>The Bear</span> -->
 		</a>
 	</li>
 	<li>
@@ -16,7 +15,15 @@
 			rel="noreferrer"
 		>
 			<img src="assets/shirt-hanger.jpg" alt="hanger t-shirt" />
-			<!-- <span>The Hanger</span> -->
+		</a>
+	</li>
+	<li>
+		<a
+			href="https://barrington-crokinole-club.printify.me/product/3556082/barrington-crokinole-club-say-anything"
+			target="_blank"
+			rel="noreferrer"
+		>
+			<img src="assets/shirt-say-anything.jpg" alt="say anything t-shirt" />
 		</a>
 	</li>
 </ul>
