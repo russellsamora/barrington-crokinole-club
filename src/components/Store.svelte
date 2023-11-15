@@ -41,6 +41,7 @@
 	li {
 		text-align: center;
 		margin: 16px 0;
+		background: var(--color-bg);
 	}
 
 	img {
@@ -68,6 +69,14 @@
 
 		li:last-of-type {
 			margin-right: 0;
+		}
+	}
+
+	@media (hover: hover) and (pointer: fine) {
+		li:hover {
+			transform: scale(1.67);
+			transform-origin: center 100%;
+			transition: transform 0.1s;
 		}
 	}
 </style>
