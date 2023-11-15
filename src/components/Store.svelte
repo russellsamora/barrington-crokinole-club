@@ -32,21 +32,15 @@
 	ul {
 		list-style-type: none;
 		display: flex;
+		flex-direction: column;
 		max-width: 640px;
 		margin: 32px auto;
+		padding: 0;
 	}
 
 	li {
 		text-align: center;
-		margin: 0 16px;
-	}
-
-	li:first-of-type {
-		margin-left: 0;
-	}
-
-	li:last-of-type {
-		margin-right: 0;
+		margin: 16px 0;
 	}
 
 	img {
@@ -57,5 +51,23 @@
 
 	a:hover img {
 		outline: 8px solid var(--color-red);
+	}
+
+	@media (min-width: 600px) {
+		ul {
+			flex-direction: row;
+		}
+
+		li {
+			margin: 0 16px;
+		}
+
+		li:first-of-type {
+			margin-left: 0;
+		}
+
+		li:last-of-type {
+			margin-right: 0;
+		}
 	}
 </style>
