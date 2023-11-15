@@ -1,4 +1,5 @@
 <script>
+	import Store from "$components/Store.svelte";
 </script>
 
 <section>
@@ -27,6 +28,9 @@
 			rel="noreferrer">YouTube video.</a
 		>
 	</p>
+
+	<p>Support the club and buy a shirt!</p>
+	<Store />
 </section>
 
 <style>
