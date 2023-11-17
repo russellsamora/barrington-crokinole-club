@@ -33,9 +33,9 @@
 		list-style-type: none;
 		display: flex;
 		flex-direction: column;
-		max-width: 640px;
+		max-width: 60em;
 		margin: 32px auto;
-		padding: 0;
+		padding: 0 32px;
 	}
 
 	li {
@@ -50,13 +50,10 @@
 		padding: 16px;
 	}
 
-	a:hover img {
-		outline: 8px solid var(--color-red);
-	}
-
 	@media (min-width: 600px) {
 		ul {
 			flex-direction: row;
+			padding: 0;
 		}
 
 		li {
@@ -73,10 +70,13 @@
 	}
 
 	@media (hover: hover) and (pointer: fine) {
+		li {
+			transform-origin: center;
+			transition: transform 0.15s;
+		}
+
 		li:hover {
-			transform: scale(1.67);
-			transform-origin: center 100%;
-			transition: transform 0.1s;
+			transform: scale(1.1);
 		}
 	}
 </style>

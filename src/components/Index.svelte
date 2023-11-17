@@ -36,7 +36,7 @@
 <style>
 	section {
 		max-width: 60em;
-		margin: 0 auto;
+		margin: 0 auto 96px auto;
 		padding: 16px;
 	}
 
@@ -52,23 +52,23 @@
 		font-size: clamp(16px, 4vw, 32px);
 		line-height: 1.4;
 		margin: 16px auto;
-		max-width: 640px;
 		text-align: center;
 	}
 
 	.btn {
-		display: block;
+		display: inline-block;
 		background: var(--color-red);
 		color: var(--color-fg);
-		padding: 16px;
-		margin: 24px 0;
+		padding: 16px 32px;
+		/* margin: 24px 0; */
 		line-height: 1;
 		font-weight: 900;
 		text-decoration: none;
 		border: none;
-		width: 100%;
+		/* width: 100%; */
 		text-align: center;
 		text-transform: uppercase;
 		border-radius: 16px;
+		margin-bottom: 64px;
 	}
 </style>
