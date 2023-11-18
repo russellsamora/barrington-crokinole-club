@@ -26,6 +26,16 @@
 			<img src="assets/shirt-say-anything.jpg" alt="say anything t-shirt" />
 		</a>
 	</li>
+
+	<li>
+		<a
+			href="https://barrington-crokinole-club.printify.me/product/3611999/barrington-crokinole-club-matrix"
+			target="_blank"
+			rel="noreferrer"
+		>
+			<img src="assets/shirt-matrix.jpg" alt="matrix t-shirt" />
+		</a>
+	</li>
 </ul>
 
 <style>
@@ -33,7 +43,7 @@
 		list-style-type: none;
 		display: flex;
 		flex-direction: column;
-		max-width: 60em;
+		max-width: 40em;
 		margin: 32px auto;
 		padding: 0 32px;
 	}
@@ -53,19 +63,13 @@
 	@media (min-width: 600px) {
 		ul {
 			flex-direction: row;
+			flex-wrap: wrap;
 			padding: 0;
 		}
 
 		li {
-			margin: 0 16px;
-		}
-
-		li:first-of-type {
-			margin-left: 0;
-		}
-
-		li:last-of-type {
-			margin-right: 0;
+			margin: 16px;
+			width: calc(50% - 32px);
 		}
 	}
 
@@ -76,7 +80,11 @@
 		}
 
 		li:hover {
-			transform: scale(1.1);
+			transform: scale(1.05);
+		}
+
+		li:hover img {
+			outline: 8px solid var(--color-red);
 		}
 	}
 </style>
