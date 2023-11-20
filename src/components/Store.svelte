@@ -46,6 +46,16 @@
 			<img src="assets/shirt-pizza.jpg" alt="pizza t-shirt" />
 		</a>
 	</li>
+
+	<li>
+		<a
+			href="https://barrington-crokinole-club.printify.me/product/3666726/barrington-crokinole-club-pink-floyd"
+			target="_blank"
+			rel="noreferrer"
+		>
+			<img src="assets/shirt-pink-floyd.jpg" alt="pink floyd t-shirt" />
+		</a>
+	</li>
 </ul>
 
 <style>
