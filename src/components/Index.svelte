@@ -30,7 +30,10 @@
 	</p>
 
 	<p>Support the club and buy a shirt!</p>
+
 	<Store />
+
+	<p>Get in touch: russellsamora@gmail.com</p>
 </section>
 
 <style>
@@ -61,12 +64,10 @@
 		background: var(--color-red);
 		color: var(--color-fg);
 		padding: 16px 32px;
-		/* margin: 24px 0; */
 		line-height: 1;
 		font-weight: 900;
 		text-decoration: none;
 		border: none;
-		/* width: 100%; */
 		text-align: center;
 		text-transform: uppercase;
 		border-radius: 16px;
