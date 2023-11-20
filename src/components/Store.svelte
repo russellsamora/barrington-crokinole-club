@@ -36,6 +36,16 @@
 			<img src="assets/shirt-matrix.jpg" alt="matrix t-shirt" />
 		</a>
 	</li>
+
+	<li>
+		<a
+			href="https://barrington-crokinole-club.printify.me/product/3666368/barrington-crokinole-pizza"
+			target="_blank"
+			rel="noreferrer"
+		>
+			<img src="assets/shirt-pizza.jpg" alt="pizza t-shirt" />
+		</a>
+	</li>
 </ul>
 
 <style>
