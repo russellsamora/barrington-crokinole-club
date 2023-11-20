@@ -1,6 +1,6 @@
 <script>
 	export let title = "Barrington Crokinole Club";
-	export let description = "All levels and ages are welcome!";
+	export let description = "All ages and levels are welcome!";
 	export let url = "https://barringtoncrokinole.club";
 	export let keywords = "";
 	export let preloadFont = [];

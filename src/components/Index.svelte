@@ -7,7 +7,7 @@
 
 	<p>A monthly meetup in South Berkshire County.</p>
 
-	<p>All levels and ages are welcome!</p>
+	<p>All ages and levels are welcome!</p>
 
 	<p><strong>Next meetup: TBD</strong></p>
 
