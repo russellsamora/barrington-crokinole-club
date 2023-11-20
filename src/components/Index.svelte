@@ -41,7 +41,8 @@
 	}
 
 	h1 {
-		font-size: clamp(42px, 10vw, 128px);
+		font-size: clamp(42px, 7vw, 96px);
+		text-transform: uppercase;
 		font-weight: 900;
 		line-height: 1;
 		text-align: center;
