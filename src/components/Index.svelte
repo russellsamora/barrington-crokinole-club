@@ -17,7 +17,7 @@
 			href="https://forms.gle/6GfKgu41sHh7gqc87"
 			target="_blank"
 			rel="noreferrer"
-			>Add me
+			>Join the mailing list
 		</a>
 	</p>
 
