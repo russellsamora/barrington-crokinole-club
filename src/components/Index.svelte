@@ -9,7 +9,7 @@
 
 	<p>All ages and levels are welcome!</p>
 
-	<p><strong>Next meetup: TBD</strong></p>
+	<p><strong>Get notified about the next event:</strong></p>
 
 	<p>
 		<a
@@ -17,7 +17,7 @@
 			href="https://forms.gle/6GfKgu41sHh7gqc87"
 			target="_blank"
 			rel="noreferrer"
-			>Stay updated
+			>Add me
 		</a>
 	</p>
 
