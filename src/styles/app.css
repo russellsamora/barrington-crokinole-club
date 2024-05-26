@@ -90,3 +90,8 @@ h5 {
 h6 {
 	font-size: var(--20px, 20px);
 }
+
+
+.top {
+	padding-top: 32px;
+}

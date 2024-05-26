@@ -9,7 +9,7 @@
 
 	<p>All ages and levels are welcome!</p>
 
-	<p><strong>Get notified about the next event:</strong></p>
+	<p class="top"><strong>Get notified about the next event:</strong></p>
 
 	<p>
 		<a
@@ -21,7 +21,7 @@
 		</a>
 	</p>
 
-	<p>
+	<p class="top">
 		New to Crokinole? Watch this <a
 			href="https://youtu.be/R-6hdqdYPpE"
 			target="_blank"
@@ -29,11 +29,9 @@
 		>
 	</p>
 
-	<p>Support the club and buy a shirt!</p>
-
 	<Store />
 
-	<p>Get in touch: russellsamora@gmail.com</p>
+	<p class="top">Get in touch: russellsamora@gmail.com</p>
 </section>
 
 <style>
@@ -71,6 +69,5 @@
 		text-align: center;
 		text-transform: uppercase;
 		border-radius: 16px;
-		margin-bottom: 64px;
 	}
 </style>
