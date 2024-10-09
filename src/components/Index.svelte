@@ -14,7 +14,7 @@
 	<p>
 		<a
 			class="btn"
-			href="https://forms.gle/6GfKgu41sHh7gqc87"
+			href="https://barrington-crokinole-club.beehiiv.com/subscribe"
 			target="_blank"
 			rel="noreferrer"
 			>Join the mailing list
@@ -31,7 +31,7 @@
 
 	<Store />
 
-	<p class="top">Get in touch: russellsamora@gmail.com</p>
+	<p class="top">Get in touch: russell@barringtoncrokinole.club</p>
 </section>
 
 <style>
