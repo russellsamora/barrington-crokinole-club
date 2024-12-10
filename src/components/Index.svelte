@@ -5,11 +5,19 @@
 <section>
 	<h1>Barrington <br />Crokinole Club</h1>
 
-	<p>A monthly meetup in South Berkshire County.</p>
+	<p class="description">
+		<small
+			>A regular meetup in South Berkshire County. All ages and levels are
+			welcome!</small
+		>
+	</p>
 
-	<p>All ages and levels are welcome!</p>
+	<p>
+		<small>Next Event</small><br />
+		<strong>Monday, Dec. 16 @ 7:30 &mdash; The Prairie Whale</strong>
+	</p>
 
-	<p class="top"><strong>Get notified about the next event:</strong></p>
+	<p class="top">Get notified about upcoming events:</p>
 
 	<p>
 		<a
@@ -47,7 +55,7 @@
 		font-weight: 900;
 		line-height: 1;
 		text-align: center;
-		margin: 64px auto;
+		margin: 32px auto;
 	}
 
 	p {
@@ -69,5 +77,9 @@
 		text-align: center;
 		text-transform: uppercase;
 		border-radius: 16px;
+	}
+
+	p.description {
+		line-height: 1.125;
 	}
 </style>
