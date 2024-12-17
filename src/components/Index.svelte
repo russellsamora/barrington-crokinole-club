@@ -14,7 +14,8 @@
 
 	<p>
 		<small>Next Event</small><br />
-		<strong>Monday, Dec. 16 @ 7:30 &mdash; The Prairie Whale</strong>
+		<!-- <strong>Monday, Dec. 16 @ 7:30 &mdash; The Prairie Whale</strong> -->
+		<strong>TBD</strong>
 	</p>
 
 	<p class="top">Get notified about upcoming events:</p>
