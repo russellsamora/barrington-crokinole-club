@@ -14,7 +14,7 @@
 
 	<p>
 		<small>Next Event</small><br />
-		<strong>Monday, Apr. 7 @ 7:30 &mdash; The Prairie Whale</strong>
+		<strong>Sunday, Apr. 13 @ 7:30 &mdash; The Prairie Whale</strong>
 		<!-- <strong>TBD</strong> -->
 	</p>
 
