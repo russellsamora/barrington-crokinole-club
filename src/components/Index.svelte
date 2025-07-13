@@ -14,7 +14,7 @@
 
 	<p>
 		<small>Next Event</small><br />
-		<strong>Monday, June 16 @ 7:30 &mdash; Lucy’s Rendezvous</strong>
+		<strong>Mondays @ 7:30 &mdash; Lucy’s Rendezvous</strong>
 		<!-- <strong>TBD</strong> -->
 	</p>
 
